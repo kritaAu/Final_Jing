@@ -7,3 +7,12 @@ Saved/webcache_4430/Cache/data_1
 Saved/webcache_4430/Cache/data_2
 Saved/webcache_4430/Cache/data_3
 Saved/webcache_4430/Cache/index
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+*.log
+*.tmp
+*.bak
