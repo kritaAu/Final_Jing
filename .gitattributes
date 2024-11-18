@@ -1,6 +1,6 @@
 # Unreal Engine file types.
-Content\BlackAlder*.uasset filter=lfs diff=lfs merge=lfs -text
-Content\BlackAlder*.umap filter=lfs diff=lfs merge=lfs -text
+Content/BlackAlder/*.uasset filter=lfs diff=lfs merge=lfs -text
+Content/BlackAlder/*.umap filter=lfs diff=lfs merge=lfs -text
 
 # # Raw Content file types.
 # *.3ds filter=lfs diff=lfs merge=lfs -text
